@@ -1,0 +1,21 @@
+{
+  "name": "custom_ajax_data_table",
+  "private": true,
+  "dependencies": {
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.3.0",
+    "datatables.net": "^1.13.8",
+    "datatables.net-bs": "^1.13.8",
+    "datatables.net-buttons": "^2.4.2",
+    "datatables.net-buttons-bs": "^2.4.2",
+    "datatables.net-responsive": "^2.5.0",
+    "datatables.net-responsive-bs": "^2.5.0",
+    "datatables.net-select": "^1.7.0",
+    "datatables.net-select-bs": "^1.7.0",
+    "imports-loader": "3.0.0",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0"
+}
